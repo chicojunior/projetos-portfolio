@@ -3,15 +3,6 @@ Esse é o meu portfólio provisório. Nele eu reuno os links de projetos que par
 
 ---
 
-## Finkers 
-[Aplicativo R7 Coaching](https://play.google.com/store/apps/details?id=br.com.finkers.coaching)
-+ Implementação do módulo de avaliação de desempenho.
-
-[Aplicativo Ceará Oficial](https://play.google.com/store/apps/details?id=br.com.ceara.soumais&hl=pt_BR)
-+ Implementação do módulo de adesão de planos.
-
----
-
 ## Catskillet 
 [Website Minha Wacom](http://minhawacom.com/)
 + Implementação do layout PSD completo.
