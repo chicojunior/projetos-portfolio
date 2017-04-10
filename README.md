@@ -4,9 +4,6 @@ Esse é o meu portfólio provisório. Nele eu reuno os links de projetos que par
 ---
 
 ## Catskillet 
-[Website Minha Wacom](http://minhawacom.com/)
-+ Implementação do layout PSD completo.
-
 [Landing Page Rossi Residencial](http://www.rossiresidencial.com.br/5anoscondominio)
 + Implementação do layout PSD integrando ao website principal.
 
