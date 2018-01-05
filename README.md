@@ -31,7 +31,6 @@ Esse repositório tem como objetivo listar os projetos dos quais participei dura
 [Layout Folha](http://layoutsistemas.com.br/produtos.php?id=1)
 + Sustentação/Suporte do sistema legado e implementação de novas funcionalidades.
 
----
 
 ## Finkers (Freelance) 
 [Aplicativo Ceará Oficial](https://play.google.com/store/apps/details?id=br.com.ceara.soumais)
