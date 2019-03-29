@@ -32,10 +32,5 @@ Esse repositório tem como objetivo listar os projetos dos quais participei dura
 + Sustentação/Suporte do sistema legado e implementação de novas funcionalidades.
 
 
-## Finkers (Freelance) 
-[Aplicativo Ceará Oficial](https://play.google.com/store/apps/details?id=br.com.ceara.soumais)
-+ Desenvolvimento do módulo de loja e adesão ao sócio torcedor.
-
-
 
 
