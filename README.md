@@ -1,35 +1,28 @@
-# Projetos/Portfólio
-Esse repositório tem como objetivo listar os projetos dos quais participei durante minhas experiências profissionais.
+# Projects/Portfolio
+This repository contains some of the projects that I've worked and demos hosted on [Google Firebase](https://firebase.google.com/).
 
+## Demos
++ https://mv-tech-pep.web.app/
++ https://angular-mentoring.web.app/
++ https://cr-game-shop.web.app/
++ https://fs-movies.web.app/
++ https://nucleus-test-francisco.web.app/
++ https://vanilla-map.web.app/
 
-## [CTIS Tecnologia](https://www.ctis.com.br/) 
+## [CTIS](https://www.ctis.com.br/) 
 [SEFAZ-CE IPVA](http://www2.sefaz.ce.gov.br/ipva/)
-+ Implementação do front-end do projeto de downsize de vários sistemas da Secretaria da Fazenda do Estado do Ceará (SEFAZ-CE).
 
-
-## [iFactory Solutions](http://www.ifactory.com.br/) (Freelance)
-[Instituto Ayrton Senna](http://institutoayrtonsenna.org.br/)
-+ Implementação dos layouts do cliente para integração com o CMS Adobe AEM.
-
-
-## [Catskillet](https://catskillet.com/) 
-[Landing Page Rossi Residencial](http://www.rossiresidencial.com.br/5anoscondominio)
-+ Implementação do layout PSD integrando ao website principal.
-
+## [iFactory Solutions/OSF Digital](https://osf.digital/) (Freelancer)
+[Ayrton Senna Institute](http://institutoayrtonsenna.org.br/)
 
 ## [Selletiva](http://www.selletiva.com.br/) 
-[Sistema Selletiva](https://sistema.selletiva.com.br/)
-+ Desenvolvimento de gráficos, formulários e novas funcionalidades.
-
+[Selletiva System](https://sistema.selletiva.com.br/)
 
 ## [Universidade de Fortaleza - NATI](http://www.unifor.br/) 
-[Aplicativo Unifor Mobile](https://play.google.com/store/apps/details?id=br.unifor.mobile)
-+ Implementação do módulo de renovação de livros da bilbioteca e levantamento de requisitos e protótipos do fórum mobile.
-
+[Unifor Mobile App](https://play.google.com/store/apps/details?id=br.unifor.mobile)
 
 ## [Layout Sistemas](http://layoutsistemas.com.br/) 
 [Layout Folha](http://layoutsistemas.com.br/produtos.php?id=1)
-+ Sustentação/Suporte do sistema legado e implementação de novas funcionalidades.
 
 
 
